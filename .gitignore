@@ -1,5 +1,6 @@
 .DS_Store
 acs/data/
-acs/metadata
-acs/geography
+acs/metadata/
+acs/geography/
+acs/microdata/
 acs/All_Geographies.zip
